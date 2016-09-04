@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Bootstrap 3 Snippets",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Colorsublime",
+		"Emmet",
+		"Package Control",
+		"Phpcs",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Theme - Brogrammer",
+		"TrailingSpaces",
+		"Xdebug Client"
+	]
+}

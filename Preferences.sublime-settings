@@ -1,0 +1,31 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/brogrammer (SL).tmTheme",
+	"font_size": 10,
+	"rulers": [80],
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+	"ignored_packages":
+	[
+		"SublimeCodeIntel",
+		"Vintage"
+	],
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"theme_accent_lime": true,
+	"theme_accent_orange": true,
+	"theme_button_rounded": true,
+	"theme_find_panel_close_hidden": true,
+	"theme_font_md": true,
+	"theme_grid_border_size_lg": true,
+	"theme_icon_button_highlighted": true,
+	"theme_icons_atomized": true,
+	"theme_popup_border_visible": true,
+	"theme_scrollbar_rounded": true,
+	"theme_sidebar_disclosure": true,
+	"theme_sidebar_indent_top_level_disabled": true,
+	"theme_size_xl": true,
+	"theme_tab_rounded": true,
+	"theme_tab_selected_prelined": true,
+	"theme_tab_separator": true,
+}
